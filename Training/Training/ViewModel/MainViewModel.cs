@@ -16,6 +16,7 @@ namespace Training.ViewModel
             _mainText = "Scanner Application";
             ScanPage = new Command(() => Navigation.PushAsync<ScanViewModel>());
             MapPage = new Command(() => Navigation.PushAsync<MapViewModel>());
+            CameraPage = new Command(async () => await Navigation.PushAsync<CameraViewModel>());
         }
 
         public string MainText
@@ -26,5 +27,6 @@ namespace Training.ViewModel
 
         public Command ScanPage { get; set; }
         public Command MapPage { get; set; }
+        public Command CameraPage { get; private set; }
     }
 }

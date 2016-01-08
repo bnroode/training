@@ -6,5 +6,6 @@
     <Label Text="{Binding MainText}" VerticalOptions="StartAndExpand" HorizontalOptions="Center" />
     <Button Text="Map" Command="{Binding MapPage}" VerticalOptions="StartAndExpand" HorizontalOptions="Center"></Button>
     <Button Text="Scan" Command="{Binding ScanPage}" VerticalOptions="StartAndExpand" HorizontalOptions="Center"></Button>
+    <Button Text="Camera/Gallery" Command="{Binding CameraPage}" VerticalOptions="StartAndExpand" HorizontalOptions="Center"></Button>
   </StackLayout>
 </ContentPage>
