@@ -11,6 +11,9 @@ using XLabs.Ioc;
 using XLabs.Platform.Device;
 using XLabs.Platform.Mvvm;
 
+using Xamarin.Forms;
+using Xamarin.Forms.Maps;
+
 namespace Training.Droid
 {
     [Activity(Label = "Training", Icon = "@drawable/icon", MainLauncher = true, ConfigurationChanges = ConfigChanges.ScreenSize | ConfigChanges.Orientation)]
@@ -21,6 +24,8 @@ namespace Training.Droid
             base.OnCreate(bundle);
 
             global::Xamarin.Forms.Forms.Init(this, bundle);
+
+            global::Xamarin.FormsMaps.Init(this, bundle);
 
             SetIoc();
 

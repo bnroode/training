@@ -5,6 +5,11 @@ using System.Linq;
 using Foundation;
 using UIKit;
 
+using XLabs.Forms;
+using XLabs.Ioc;
+using XLabs.Platform.Device;
+using XLabs.Platform.Mvvm;
+
 namespace Training.iOS
 {
     // The UIApplicationDelegate for the application. This class is responsible for launching the 
@@ -23,9 +28,25 @@ namespace Training.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
+
+            SetIoc();
+
             LoadApplication(new App());
 
             return base.FinishedLaunching(app, options);
+        }
+
+        private void SetIoc()
+        {
+            var resolverContainer = new SimpleContainer();
+
+            var app = new XFormsAppiOS();
+
+            resolverContainer.Register(t => AppleDevice.CurrentDevice)
+                .Register<IDependencyContainer>(t => resolverContainer)
+                .Register<IXFormsApp>(app);
+
+            Resolver.SetResolver(resolverContainer.GetResolver());
         }
     }
 }

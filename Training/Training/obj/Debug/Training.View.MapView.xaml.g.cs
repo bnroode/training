@@ -17,8 +17,12 @@ namespace Training.View {
     public partial class MapView : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Maps.Map MyMap;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(MapView));
+            MyMap = this.FindByName<global::Xamarin.Forms.Maps.Map>("MyMap");
         }
     }
 }

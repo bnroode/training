@@ -15,9 +15,13 @@ C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\Xamarin.Android.Support.v7.CardView.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\Xamarin.Android.Support.v7.MediaRouter.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\Xamarin.Forms.Core.dll
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\Xamarin.Forms.Maps.Android.dll
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\Xamarin.Forms.Maps.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\Xamarin.Forms.Platform.Android.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\Xamarin.Forms.Platform.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\Xamarin.Forms.Xaml.dll
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\Xamarin.GooglePlayServices.Base.dll
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\Xamarin.GooglePlayServices.Maps.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\XLabs.Core.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\XLabs.Forms.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\XLabs.Forms.Droid.dll

@@ -15,7 +15,6 @@ C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhone\Debug\XLabs.Platform.iOS.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhone\Debug\XLabs.Serialization.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhone\Debug\Training.pdb
-C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhone\Debug\Training.dll.mdb
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhone\Debug\XLabs.Core.xml
@@ -60,3 +59,7 @@ C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\obj\iPhone\Debug\Training.iOS.csprojResolveAssemblyReference.cache
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\obj\iPhone\Debug\TrainingiOS.exe
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\obj\iPhone\Debug\TrainingiOS.pdb
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhone\Debug\zxing.portable.dll
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhone\Debug\ZXingNetMobile.dll
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhone\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhone\Debug\Training.dll.mdb
