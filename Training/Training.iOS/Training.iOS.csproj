@@ -90,6 +90,9 @@
     <CodesignEntitlements>
     </CodesignEntitlements>
   </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Training.iOS.Application</StartupObject>
+  </PropertyGroup>
   <ItemGroup>
     <Compile Include="Main.cs" />
     <Compile Include="AppDelegate.cs" />

@@ -7,7 +7,7 @@
     <maps:Map WidthRequest="320" HeightRequest="200"
         x:Name="MyMap"
         IsShowingUser="true"
-        MapType="Street"
+        MapType="Hybrid"
         />
   </StackLayout>
 </ContentPage>

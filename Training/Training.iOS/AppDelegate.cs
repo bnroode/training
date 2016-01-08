@@ -29,6 +29,8 @@ namespace Training.iOS
         {
             global::Xamarin.Forms.Forms.Init();
 
+            global::Xamarin.FormsMaps.Init();
+
             SetIoc();
 
             LoadApplication(new App());

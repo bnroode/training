@@ -4,6 +4,8 @@ C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\ExifLib.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\Training.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.dll
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.dll
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.iOS.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Platform.iOS.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.dll
@@ -18,8 +20,8 @@ C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\ZXingNetMobile.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\ZXing.Net.Mobile.Core.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\Training.pdb
-C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\Training.dll.mdb
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Core.xml
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.xml
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Xaml.xml
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\XLabs.Core.xml
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\XLabs.Forms.xml
@@ -63,8 +65,5 @@ C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\obj\iPhoneSimulator\Debug\Training.iOS.csprojResolveAssemblyReference.cache
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\obj\iPhoneSimulator\Debug\TrainingiOS.exe
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\obj\iPhoneSimulator\Debug\TrainingiOS.pdb
-C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.dll
-C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.iOS.dll
-C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\Xamarin.Forms.Maps.xml
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\obj\iPhoneSimulator\Debug\TrainingiOS.exe.mdb
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.iOS\bin\iPhoneSimulator\Debug\TrainingiOS.exe.mdb

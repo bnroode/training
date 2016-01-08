@@ -22,7 +22,6 @@ C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\bin\Debug\XLabs.Ioc.xml
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\bin\Debug\XLabs.Platform.xml
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\bin\Debug\XLabs.Serialization.xml
-C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\obj\Debug\Training.View.MainView.xaml.g.cs
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\obj\Debug\Training.View.MapView.xaml.g.cs
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\obj\Debug\Training.View.ScanView.xaml.g.cs
