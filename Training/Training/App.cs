@@ -37,6 +37,7 @@ namespace Training
             ViewFactory.Register<MainView, MainViewModel>();
             ViewFactory.Register<ScanView, ScanViewModel>();
             ViewFactory.Register<MapView, MapViewModel>();
+            ViewFactory.Register<CameraView, CameraViewModel>();
 
             var mainPage = (Page)ViewFactory.CreatePage(typeof(MainViewModel));
 
