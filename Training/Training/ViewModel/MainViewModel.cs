@@ -3,10 +3,28 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Xamarin.Forms;
 
 namespace Training.ViewModel
 {
-    class MainViewModel
+    class MainViewModel : XLabs.Forms.Mvvm.ViewModel
     {
+        private string _mainText;
+
+        public MainViewModel()
+        {
+            _mainText = "Scanner Application";
+            Scan = new Command(() => Navigation.PushAsync<ScanViewModel>());
+            Map = new Command(() => Navigation.PushAsync<MapViewModel>());
+        }
+
+        public string MainText
+        {
+            get { return _mainText; }
+            set { SetProperty(ref _mainText, value, () => MainText); }
+        }
+
+        public Command Scan { get; set; }
+        public Command Map { get; set; }
     }
 }
