@@ -2336,6 +2336,7 @@ containing a value of this type.
         public static final int clip_horizontal=0x7f0b0031;
         public static final int clip_vertical=0x7f0b0032;
         public static final int collapseActionView=0x7f0b001d;
+        public static final int contentFrame=0x7f0b0085;
         public static final int contentPanel=0x7f0b0046;
         public static final int custom=0x7f0b004a;
         public static final int customPanel=0x7f0b0049;
@@ -2498,6 +2499,8 @@ containing a value of this type.
         public static final int select_dialog_singlechoice_material=0x7f030032;
         public static final int support_simple_spinner_dropdown_item=0x7f030033;
         public static final int week=0x7f030034;
+        public static final int zxingscanneractivitylayout=0x7f030035;
+        public static final int zxingscannerfragmentlayout=0x7f030036;
     }
     public static final class string {
         public static final int ApplicationName=0x7f05001f;

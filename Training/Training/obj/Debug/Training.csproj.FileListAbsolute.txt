@@ -22,7 +22,9 @@ C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\obj\Debug\Training.View.ScanView.xaml.g.cs
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\obj\Debug\Training.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\obj\Debug\Training.pdb
-C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\obj\Debug\Training.dll.mdb
-C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\bin\Debug\Training.dll.mdb
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\bin\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\bin\Debug\zxing.portable.dll
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\bin\Debug\ZXingNetMobile.dll
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\obj\Debug\Training.csprojResolveAssemblyReference.cache
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\obj\Debug\Training.dll.mdb
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training\bin\Debug\Training.dll.mdb

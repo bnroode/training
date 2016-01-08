@@ -3061,6 +3061,9 @@ namespace Training.Droid
 			global::XLabs.Forms.Resource.Styleable.ViewStubCompat_android_layout = global::Training.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::XLabs.Platform.Resource.String.ApplicationName = global::Training.Droid.Resource.String.ApplicationName;
 			global::XLabs.Platform.Resource.String.Hello = global::Training.Droid.Resource.String.Hello;
+			global::ZXing.Mobile.Resource.Id.contentFrame = global::Training.Droid.Resource.Id.contentFrame;
+			global::ZXing.Mobile.Resource.Layout.zxingscanneractivitylayout = global::Training.Droid.Resource.Layout.zxingscanneractivitylayout;
+			global::ZXing.Mobile.Resource.Layout.zxingscannerfragmentlayout = global::Training.Droid.Resource.Layout.zxingscannerfragmentlayout;
 		}
 		
 		public partial class Animation
@@ -5064,6 +5067,9 @@ namespace Training.Droid
 			// aapt resource value: 0x7f0b001d
 			public const int collapseActionView = 2131427357;
 			
+			// aapt resource value: 0x7f0b0085
+			public const int contentFrame = 2131427461;
+			
 			// aapt resource value: 0x7f0b0046
 			public const int contentPanel = 2131427398;
 			
@@ -5563,6 +5569,12 @@ namespace Training.Droid
 			
 			// aapt resource value: 0x7f030034
 			public const int week = 2130903092;
+			
+			// aapt resource value: 0x7f030035
+			public const int zxingscanneractivitylayout = 2130903093;
+			
+			// aapt resource value: 0x7f030036
+			public const int zxingscannerfragmentlayout = 2130903094;
 			
 			static Layout()
 			{

@@ -14,8 +14,8 @@ namespace Training.ViewModel
         public MainViewModel()
         {
             _mainText = "Scanner Application";
-            Scan = new Command(() => Navigation.PushAsync<ScanViewModel>());
-            Map = new Command(() => Navigation.PushAsync<MapViewModel>());
+            ScanPage = new Command(() => Navigation.PushAsync<ScanViewModel>());
+            MapPage = new Command(() => Navigation.PushAsync<MapViewModel>());
         }
 
         public string MainText
@@ -24,7 +24,7 @@ namespace Training.ViewModel
             set { SetProperty(ref _mainText, value, () => MainText); }
         }
 
-        public Command Scan { get; set; }
-        public Command Map { get; set; }
+        public Command ScanPage { get; set; }
+        public Command MapPage { get; set; }
     }
 }

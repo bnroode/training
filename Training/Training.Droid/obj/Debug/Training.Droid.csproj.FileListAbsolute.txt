@@ -44,6 +44,8 @@ C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\R.cs.flag
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\uploadflags.txt
-C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\bin\Debug\Training.dll.mdb
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\bin\Debug\ZXing.Net.Mobile.Core.dll
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\bin\Debug\zxing.portable.dll
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\bin\Debug\ZXingNetMobile.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\Training.Droid.dll.mdb
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\bin\Debug\Training.Droid.dll.mdb

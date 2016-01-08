@@ -25,6 +25,9 @@ C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\XLabs.Platform.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\XLabs.Platform.Droid.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\XLabs.Serialization.dll
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\ZXing.Net.Mobile.Core.dll
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\zxing.portable.dll
+C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\ZXingNetMobile.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\System.Collections.Concurrent.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\System.Collections.dll
 C:\Users\naude\Documents\Visual Studio 2013\Projects\training\Training\Training.Droid\obj\Debug\assemblies\System.ComponentModel.Annotations.dll
